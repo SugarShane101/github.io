@@ -26,7 +26,7 @@ export class ZwcIframe extends LitElement {
   title = "iQ Pro Tokenizer";
 
   @property()
-  src = "https://sandbox.basysiqpro.com/tokenizer/tokenizer.js";
+  src = "https://sandbox.basysiqpro.com/tokenizer/tokenizer.html";
 
   @property({ type: Number })
   height = 500;
